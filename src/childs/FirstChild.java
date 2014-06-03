@@ -9,5 +9,5 @@ package childs;
  * @author Jorge
  */
 public class FirstChild {
-    
+    System.out.print("Estoy en FirstChild");
 }
